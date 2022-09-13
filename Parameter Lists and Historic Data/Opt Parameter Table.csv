@@ -1,0 +1,9 @@
+﻿Team_Name,Team_Index,Entity_Code,Entity_index,theta,alpha_s,beta,S_prime
+Cost Opt - Step - Entity 1,0,R,1,0.001955026,0.409168102,0.975386728,29.25937356
+Cost Opt - Step - Entity 2,0,w,2,1,0.494728368,1,36.40519494
+Cost Opt - Step - Entity 3,0,D,3,0.747189973,0.094149568,0.784228617,73.72092889
+Cost Opt - Step - Entity 4,0,F,4,1,1,0.048307235,21.58118412
+Cost Opt - Norm - Entity 1,1,R,1,0.028799429,0.085379051,1,11.28654383
+Cost Opt - Norm - Entity 1,1,w,2,0.139628755,0,1,25.78709785
+Cost Opt - Norm - Entity 1,1,D,3,0.166041944,0,0.953937256,57.18568384
+Cost Opt - Norm - Entity 1,1,F,4,1,1,1,16.54714111
